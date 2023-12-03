@@ -1,20 +1,20 @@
 
-# Fuck 学习强国
+# 学习强国
 
 一款帮助成年人（或许未来包括小朋友）自动学刁的软件
 
 ## 下载
 
-[Windows](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-win32.zip)
+[Windows](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-win32.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-win32.zip)
 
-[Mac](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-darwin.zip)
+[Mac](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-darwin.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-darwin.zip)
 
-[Linux x86_64](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-linux.zip)
+[Linux x86_64](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-linux.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-linux.zip)
 
-[树莓派 (Linux armv7l)](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-raspberrypi.zip)
+[树莓派 (Linux armv7l)](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/Fuck学习强国-raspberrypi.zip) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/Fuck学习强国-raspberrypi.zip)
 
-[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/app.asar) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/app.asar)  
-(记得校验[sha256](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json))
+[app.asar](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar) 更新包 &nbsp;|&nbsp; [镜像1](https://dl.fxxk.workers.dev/app.asar) &nbsp;|&nbsp; [镜像2](https://fuck-xuexiqiangguo.github.io/Fuck-XueXiQiangGuo/app.asar)  
+(记得校验[sha256](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/blob/master/version.json))
 
 ### 在 IPFS 上的镜像
 
@@ -50,7 +50,7 @@ Xvfb -ac -screen scrn 1280x2000x24 :9.0 &
 export DISPLAY=:9.0
 
 # 下载并解压程序
-wget -O fuck-xuexiqiangguo.zip https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip
+wget -O fuck-xuexiqiangguo.zip https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/Fuck学习强国-linux.zip
 unzip -q -d ./fuck-xuexiqiangguo/ fuck-xuexiqiangguo.zip
 
 cd fuck-xuexiqiangguo
@@ -68,7 +68,7 @@ chmod +x ./Fuck学习强国
 
 ## 更新方法
 
-使用最新的[app.asar](https://github.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar)替换resources/app.asar
+使用最新的[app.asar](https://githubfast.com/fuck-xuexiqiangguo/Fuck-XueXiQiangGuo/raw/master/app.asar)替换resources/app.asar
 
 对于Mac用户，请替换Contents/Resources/app.asar
 
@@ -82,7 +82,7 @@ chmod +x ./Fuck学习强国
 
 Fuck XueXiQiangGuo is licensed under MIT License
 
-[源代码](https://github.com/fuck-xuexiqiangguo/source-code)
+[源代码](https://githubfast.com/fuck-xuexiqiangguo/source-code)
 
 ---
 
